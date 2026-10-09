@@ -1,0 +1,32 @@
+# Executables and compiled binaries
+*.exe
+*.out
+thread1
+thread2
+thread_sum
+race
+mutex
+omp1
+omp_sum
+omp_race
+omp_critical
+omp_barrier
+sequential
+sequential_program
+pthread_perf
+omp_perf
+
+# Object files and libraries
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+
+# System and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
